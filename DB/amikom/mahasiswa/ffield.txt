@@ -1,0 +1,7 @@
+id
+nim
+tahun_masuk
+kode_kelas
+nama
+alamat
+kuliah

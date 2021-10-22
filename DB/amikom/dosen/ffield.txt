@@ -1,0 +1,11 @@
+nama
+tahun_masuk
+kode_kelas
+id
+no_induk
+alamat
+tgl_lahir
+tempat_lahir
+hoby
+pendidikan_terakhir
+password

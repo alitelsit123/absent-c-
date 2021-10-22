@@ -1,0 +1,8 @@
+COMMANDS: 
+  1. MISALNYA MAU BUAT DATABASE ITU inputnya MAKE HURUF JADI 
+     "create database" / "list db" / "select db" 
+     abis itu langsung enter baru nama database nya
+  2. kalo mau buat table harus select db dulu gitu seterusnya kalo mau        bikin kolom harus select table 
+  
+ERROR: 
+  KALO disuruh masukin angka tapi kita masukin huruf nanti jadi infinity   loop ERROR HANDLER NYA MASIH PROSES
